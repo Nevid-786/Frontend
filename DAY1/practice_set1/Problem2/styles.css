@@ -1,0 +1,9 @@
+.heading{
+    color:red;
+
+}
+/* We can also do this using element selector */
+h1,h2,h3{
+
+    color:blue !important;
+}
