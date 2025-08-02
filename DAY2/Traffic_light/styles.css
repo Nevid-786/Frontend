@@ -1,0 +1,24 @@
+#maindiv{
+    border:5px solid brown;
+    border-radius: 85px;
+    height:370px;
+    width: 200px;
+    background-color: black;
+}
+.div{
+     margin:30px 50px 30px 50px;
+height:86px;
+width:86px;
+border-radius: 50%;
+
+}
+#div1{
+ background-color: red;
+}
+#div2{
+   background-color: yellow;
+}
+#div3{
+     background-color:green;
+
+}
