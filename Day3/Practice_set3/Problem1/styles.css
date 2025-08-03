@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding: 0;
+    color:white;
+
+}
+#logo{
+    font-size: 25px;
+    color:orange;
+}
+#Navbar{
+    height: 60px;
+    background-color: black;
+
+}
+a{
+    margin-right:280px;
+    margin-left:5px;
+}
+button{
+    background-color:#f08804;
+}
+footer{
+    text-align: center;
+background-color: black;
+color: white;
+height: 50px;
+}
+main{
+    height: 800px;
+}
+.Mydiv{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    
+    display: inline-block;
+    color: black;
+}
