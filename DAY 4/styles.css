@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding: 0;
+    color:white;
+
+}
+div{
+    border: 2px solid black;
+    
+    
+}
+
+
+
+.Mydiv{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    
+    /* display: inline-block; */
+    
+    margin:20px;
+    padding: 20px;
+    color:white;
+    color: black;
+}
+
+#container{
+    height: 500px; 
+    width: 500px;
+
+    display: flex;
+    /* flex-wrap: wrap;
+    flex-direction: row;  */
+    */
+    /* flex-wrap: wrap-reverse;  */
+}
